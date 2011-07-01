@@ -1,0 +1,28 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+homer:
+  fName: Homer
+  mName: Jay
+  lName: Simpson
+  dob: 1955-05-10
+  ssn: 568-47-0008
+  address1: 742 Evergreen Terrace
+  address2: 
+  city: Springfield
+  state: 
+  zip: 
+  employer: Springfield Nuclear Power Plant
+
+
+burns:
+  fName: Charles
+  mName: Montgomery
+  lName: Burns
+  dob: 1892-09-15
+  ssn: 000-00-0002
+  address1: 1000 Mammon Lane
+  address2: 
+  city: Springfield
+  state: 
+  zip: 
+  employer: Springfield Nuclear Power Plant
